@@ -1,0 +1,10 @@
+EMLogDownload-Setting:
+    DownloadPath: "./download"
+    LoginHost: "https://login.salesforce.com"
+    ApiVersion: "59.0"
+    EventType: ""
+    # If the following values are not set, It sets it interactively at execution.
+    ClientId: ""
+    ClientSecret: ""
+    UserName: ""
+    Password: ""
